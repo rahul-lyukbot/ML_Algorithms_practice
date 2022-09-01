@@ -17,4 +17,4 @@ Here are two CSV file which are related to Notbook 2(Feature Engineering)
   3. Sklearn Cross_validation score
   4. Sklearn Cross_Validate
 
-**And this Notebokk also contain `GridSearch Cross-Validation`method**
+**And this Notebook also contain `GridSearch Cross-Validation`method**
