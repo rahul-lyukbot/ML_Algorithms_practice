@@ -10,3 +10,11 @@ Here are two CSV file which are related to Notbook 2(Feature Engineering)
   2. `NO_missing_value` which was updated after several operation on `ames_housing` dataset
 
 **ALL modification on `ames_housing` dataset based on the descryption.Text file which provide all information about dataset**
+
+## Cross-Validation Notbook contain these Topics|Methods for cross-validation
+  1. Train|Test split
+  2. Train|Validation|Test split
+  3. Sklearn Cross_validation score
+  4. Sklearn Cross_Validate
+
+**And this Notebokk also contain `GridSearch Cross-Validation`method*
