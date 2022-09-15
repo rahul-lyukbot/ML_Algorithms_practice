@@ -22,4 +22,6 @@ Here are two CSV file which are related to Notbook 2(Feature Engineering)
 
 ## Logistic regression
 in this notebook you find the two model one for binary classification and second for multiple classification
-there is two csv file i'll use as dataset
+  * there is two csv file i'll use as dataset
+    1. hearing.csv https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/hearing_test.csv for binary classification
+    2. IRIS.csv 
