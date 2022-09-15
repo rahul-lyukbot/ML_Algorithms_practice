@@ -18,3 +18,8 @@ Here are two CSV file which are related to Notbook 2(Feature Engineering)
   4. Sklearn Cross_Validate
 
 **And this Notebook also contain `GridSearch Cross-Validation`method**
+
+
+## Logistic regression
+in this notebook you find the two model one for binary classification and second for multiple classification
+there is two csv file i'll use as dataset
