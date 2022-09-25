@@ -31,4 +31,5 @@ in this notebook you find the two model one for binary classification and second
 * In this Notebokk there is 3 model:-
   * First one simple knn model wiht one n_neighbors
   * Second one by using Elbow_method to find the n_neighbors
-  * Third one using **Scikit-learn**pipline and n folds method to find best n_neighbors value
+  * Third one using **Scikit-learn** pipline and n folds method to find best n_neighbors value
+**Data**
