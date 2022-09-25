@@ -25,3 +25,10 @@ in this notebook you find the two model one for binary classification and second
   * **there is two csv file i'll use as dataset**
     1. `hearing.csv` https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/hearing_test.csv for binary classification
     2. `IRIS.csv`  https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/IRIS.csv for multiclass classification
+
+
+## KNN- k-Nearest_Neighbors->  https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/5_KNN.ipynb
+* In this Notebokk there is 3 model:-
+  * 1. simple knn model wiht one n_neighbors
+  * 2. by using Elbow_method to find the n_neighbors
+  * 3. Using pipline and n folds method to find best n_neighbors value
