@@ -20,11 +20,11 @@ Here are two CSV file which are related to Notbook 2(Feature Engineering)
 **And this Notebook also contain `GridSearch Cross-Validation`method**
 
 
-## Logistic regression:   https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/4_Logistic_Regression.ipynb
+## Logistic regression->   https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/4_Logistic_Regression.ipynb
 in this notebook you find the two model one for binary classification and second for multclass classification
   * **there is two csv file i'll use as dataset**
-    1. `hearing.csv` -> https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/hearing_test.csv for binary classification
-    2. `IRIS.csv` -> https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/IRIS.csv for multiclass classification
+    1. `hearing.csv` **->** https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/hearing_test.csv for binary classification
+    2. `IRIS.csv` **->** https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/IRIS.csv for multiclass classification
 
 
 ## KNN- k-Nearest_Neighbors->  https://github.com/rahul-lyukbot/ML_Algorithms_practice/blob/main/5_KNN.ipynb
